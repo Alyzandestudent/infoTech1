@@ -7,3 +7,6 @@ ul{
   color:yellow;
   font-family:Garamond;
 }
+td{font-family:green;}
+th{font-size:20px;}
+table{width:80%; align:center;}
